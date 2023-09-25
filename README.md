@@ -4,4 +4,4 @@
 
 В будущем я буду работать в Контуре тестировщицей ПО, постепенно изучаю, как продукты компании, так и тестирование в целом.
 
-![me](https://github.com/ellamolochko/aboutme/blob/main/photo_2023-09-03_19-37-00.jpg)
+![](https://github.com/ellamolochko/aboutme/blob/main/photo_2023-09-03_19-37-00.jpg)
